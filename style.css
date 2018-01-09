@@ -34,7 +34,7 @@ ul{
 
 /* Header */
 header{
-  background:#35424a;
+  background:#00ffed;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -80,10 +80,10 @@ header a:hover{
 
 /*Showcase*/
 #showcase{
-  min-height:400px;
+  min-height:100px;
   background:url('../img/tehween.jpg');
   text-align: center;
-  color:#000000;
+  color:#00ffed;
 }
 
 #showcase h1{
@@ -138,6 +138,6 @@ footer{
   padding:20px;
   margin-top: 20px;
   color:#ffffff;
-  background-color:#e8491d;
+  background-color:#00ffed;
   text-align:center; 
 }
